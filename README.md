@@ -1,5 +1,5 @@
 # Blackjack
-This is an old program created in Python. It is a functional program that is shows the capabilites of Python.
+This is an old program created in Python that was written in 2017. It will be modernized very soon. It is a functional program that is shows the capabilites of Python.
 ### Usage
 After running the program, follow the instructions.  
 Ex:
